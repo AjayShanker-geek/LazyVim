@@ -1,5 +1,21 @@
 # Changelog
 
+## [13.7.0](https://github.com/LazyVim/LazyVim/compare/v13.6.0...v13.7.0) (2024-12-02)
+
+
+### Features
+
+* **blink:** enabled treesitter highlighting ([0a9447c](https://github.com/LazyVim/LazyVim/commit/0a9447c1b1776c2d8d7b7d495538ddfab7c6cd08))
+* **snacks:** silence copy url keymap ([#4939](https://github.com/LazyVim/LazyVim/issues/4939)) ([03e203b](https://github.com/LazyVim/LazyVim/commit/03e203bfbe1e5de38cfc0082e5d1b720cab83c0e))
+
+
+### Bug Fixes
+
+* **copilot:** CopilotChat.nvim has moved to main ([#4931](https://github.com/LazyVim/LazyVim/issues/4931)) ([0d6026a](https://github.com/LazyVim/LazyVim/commit/0d6026a3e8a255cf825ad293de101bc1e1a667eb))
+* **supermaven:** blink.cmp integration ([#4941](https://github.com/LazyVim/LazyVim/issues/4941)) ([d714711](https://github.com/LazyVim/LazyVim/commit/d71471151b8906155e048ea3d3fe2fa7d651990e))
+* **ui:** disable mini.indentscope on `ft=snacks_dashboard` ([#4928](https://github.com/LazyVim/LazyVim/issues/4928)) ([4bf3a39](https://github.com/LazyVim/LazyVim/commit/4bf3a392234f4c4421af644683d95d8aab945382))
+* **ui:** properly clear maximize state on exit. See [#4934](https://github.com/LazyVim/LazyVim/issues/4934) ([9ec253b](https://github.com/LazyVim/LazyVim/commit/9ec253b9b6bf9673f610035d741a345d6be7a44f))
+
 ## [13.6.0](https://github.com/LazyVim/LazyVim/compare/v13.5.3...v13.6.0) (2024-12-01)
 
 
